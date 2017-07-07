@@ -1,7 +1,6 @@
-# Basic Project
-## Basic Project Structure
+# Craigslist Project
 
-*Default Structure for A Basic Project*
+*Use database as test parameters for testing Craigslist*
 
 **Java 8**
 
